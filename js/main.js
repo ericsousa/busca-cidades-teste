@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", function() {
     };
 
     // Carrega views
-    loadComponent('header', '../views/header.html');
-    loadComponent('footer', '../views/footer.html');
+    loadComponent('header', '/views/header.html');
+    loadComponent('footer', '/views/footer.html');
 });
